@@ -85,16 +85,13 @@
 
 ---
 
-## 실행 화면
+## 🎮 게임 스크린샷
 
-1. 시작 화면
-![StartScreen](images/StatrScreen.png)
-
-2. 게임 진행 화면
-    ![GameProcessScreen](images/GameProcessScreen.png)
-
-3. 종료 화면
-    ![EndScreen](images/EndScreen.png)
+| 화면 | 설명 | 스크린샷 |
+|------|------|----------|
+| 🚀 **시작 화면** | 게임 메인 메뉴 | <img src="images/StartScreen.png" width="300"> |
+| 🎯 **게임 화면** | 버블 슈팅 플레이 | <img src="images/GameProcessScreen.png" width="300"> |
+| 🏁 **종료 화면** | 게임 결과 표시 | <img src="images/EndScreen.png" width="300"> |
 
 
 ---
